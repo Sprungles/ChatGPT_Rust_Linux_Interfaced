@@ -1,0 +1,4 @@
+[dependencies]
+glib = "0.10"
+gtk = "0.9"
+
